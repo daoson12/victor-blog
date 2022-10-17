@@ -4,7 +4,7 @@ function BlogList({blogs, title}) {
    
   return (
     <div className='blog-list'>
-    <div className='blog-preview' style={{backgroundColor:'blue',color:'white'}}> {title}</div>
+    <div className='blog-preview' style={{backgroundColor:'blue',color:'white', fontSize:'26px'}}> {title}</div>
       {blogs.map((blog)=>(
         <div className='blog-preview' key={blog.id}>
        
