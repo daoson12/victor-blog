@@ -1,15 +1,16 @@
 import React from 'react'
 
-function BlogList({blogs, handleDelete}) {
+function BlogList({blogs, title}) {
    
   return (
     <div className='blog-list'>
+    <div className='blog-preview' style={{backgroundColor:'blue',color:'white'}}> {title}</div>
       {blogs.map((blog)=>(
         <div className='blog-preview' key={blog.id}>
+       
         <h2>{blog.title}</h2>
         <p>{blog.body}</p>
-        <p>Written by {blog.author}</p>
-        <button onClick={()=>handleDelete(blog.id)}>delete blog</button>
+        <p style={{color: "blue",borderRadius:'8px', fontStyle:'italic'}}>Written by: {blog.author}</p>
         </div>
       ))}
     </div>
