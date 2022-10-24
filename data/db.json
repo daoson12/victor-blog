@@ -1,74 +1,128 @@
 {
-    "blog": [
-        {
-            "userId": 1,
-            "id": 1,
-            "author":"Victor",
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-            "userId": 1,
-            "id": 2,
-            "author":"Abdul",
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-        },
-        {
-            "userId": 1,
-            "id": 3,
-            "author":"Jamal",
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        },
-        {
-            "userId": 1,
-            "id": 4,
-            "author":"Emmanuel",
-            "title": "eum et est occaecati",
-            "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
-        },
-        {
-            "userId": 1,
-            "id": 5,
-            "author":"James",
-            "title": "nesciunt quas odio",
-            "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
-        },
-        {
-            "userId": 1,
-            "id": 6,
-            "author":"Nandom",
-            "title": "dolorem eum magni eos aperiam quia",
-            "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-        },
-        {
-            "userId": 1,
-            "id": 7,
-            "author":"Mike",
-            "title": "magnam facilis autem",
-            "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
-        },
-        {
-            "userId": 1,
-            "id": 8,
-            "author":"Abraham",
-            "title": "dolorem dolore est ipsam",
-            "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-        },
-        {
-            "userId": 1,
-            "id": 9,
-            "author":"Soke",
-            "title": "nesciunt iure omnis dolorem tempora et accusantium",
-            "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-        },
-        {
-            "userId": 1,
-            "id": 10,
-            "author":"Nana",
-            "title": "optio molestias id quia eum",
-            "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
-        }
-    ]
+  "blog": [
+    {
+      "userId": 1,
+      "id": 1,
+      "author": "Victor",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "author": "Abdul",
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "author": "Jamal",
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "author": "Emmanuel",
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "author": "James",
+      "title": "nesciunt quas odio",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "author": "Nandom",
+      "title": "dolorem eum magni eos aperiam quia",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "author": "Mike",
+      "title": "magnam facilis autem",
+      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "author": "Abraham",
+      "title": "dolorem dolore est ipsam",
+      "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "author": "Soke",
+      "title": "nesciunt iure omnis dolorem tempora et accusantium",
+      "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "author": "Nana",
+      "title": "optio molestias id quia eum",
+      "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+    },
+    {
+      "title": "President Buhari speak on the recent attack on the taroks",
+      "body": "President Buhari speak on the recent attack on the taroks make reference to Dr solomon D lar as an empacipator with a difference. he further describe tw tarok man as a peaceful and hospitable.",
+      "author": "Yoshi",
+      "id": 11
+    },
+    {
+      "title": "Today in the News: I’m okay, presidential race not wrestling bout – Tinubu…",
+      "body": "I’m okay, presidential race not wrestling bout – Tinubu; Insurers reap huge premium from rising insecurity are top stories published across all major newspapers in Nigeria today, October 24, 2022.\n\nIn ‘Today in the News’, a newspaper review show on Vanguard Online TV, Precious Chukwudi, the anchor, reviewed major headlines published across major newspapers in Nigeria.",
+      "author": "mario",
+      "id": 12
+    },
+    {
+      "title": "Today in the News: I’m okay, presidential race not wrestling bout – Tinubu…",
+      "body": "I’m okay, presidential race not wrestling bout – Tinubu; Insurers reap huge premium from rising insecurity are top stories published across all major newspapers in Nigeria today, October 24, 2022.\n\nIn ‘Today in the News’, a newspaper review show on Vanguard Online TV, Precious Chukwudi, the anchor, reviewed major headlines published across major newspapers in Nigeria.",
+      "author": "mario",
+      "id": 13
+    },
+    {
+      "title": "Today in the News: I’m okay, presidential race not wrestling bout – Tinubu…",
+      "body": "I’m okay, presidential race not wrestling bout – Tinubu; Insurers reap huge premium from rising insecurity are top stories published across all major newspapers in Nigeria today, October 24, 2022.\n\nIn ‘Today in the News’, a newspaper review show on Vanguard Online TV, Precious Chukwudi, the anchor, reviewed major headlines published across major newspapers in Nigeria.",
+      "author": "mario",
+      "id": 14
+    },
+    {
+      "title": "ddds",
+      "body": "ddsdsds",
+      "author": "mario",
+      "id": 15
+    },
+    {
+      "title": "ddds",
+      "body": "ddsdsds",
+      "author": "mario",
+      "id": 16
+    },
+    {
+      "title": "ddds",
+      "body": "ddsdsds",
+      "author": "mario",
+      "id": 17
+    },
+    {
+      "title": "ddds",
+      "body": "ddsdsds",
+      "author": "mario",
+      "id": 18
+    },
+    {
+      "title": "I’m physically, mentally fit to govern Nigeria — Tinubu",
+      "body": "All Progressives Congress leader and presidential aspirant,Senator Ahmed Bola Tinubu has declared that he is physically and mentally fit to govern Nigeria and take it to the promised land if given the mandate.",
+      "author": "mario",
+      "id": 19
+    }
+  ]
 }
