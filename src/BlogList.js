@@ -9,10 +9,8 @@ function BlogList({ blogs, title }) {
       {blogs.map((blog) => (
         <div className='blog-preview' key={blog.id}>
           <Link to={`blogs/${blog.id}`}>
-
             <h2>{blog.title}</h2>
-            {/* <p>{blog.body}</p> */}
-            <p style={{ color: "blue", borderRadius: '8px', fontStyle: 'italic' }}>Written by: {blog.author}</p>
+            <p>Written by: {blog.author}</p>
           </Link>
 
         </div>
